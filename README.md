@@ -33,7 +33,7 @@ Este es un sistema de **Finanzas Personales** desarrollado con [Laravel](https:/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/finanzas-personales.git
+   git clone https://github.com/alejoprograming26/finanzas-personales.git
    cd finanzas-personales
    ```
 2. Instala dependencias:
@@ -81,10 +81,6 @@ Este es un sistema de **Finanzas Personales** desarrollado con [Laravel](https:/
 - Registra tus ingresos y egresos.
 - Consulta tus reportes y gráficos en el panel de control.
 - Personaliza categorías y cuentas según tus necesidades.
-
-## Capturas de Pantalla
-
-_Agrega aquí imágenes del dashboard, reportes y formularios principales._
 
 ## Contribuir
 
