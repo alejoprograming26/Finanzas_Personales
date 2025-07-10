@@ -6,7 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ![Image_Alt](https://github.com/alejoprograming26/Finanzas_Personales/blob/cf2075244315791a6c1f33db68e617d0e4115f54/Captura%20de%20pantalla%202025-07-10%20121216.png)
+
 # Proyecto de Finanzas Personales
 
 Este es un sistema de **Finanzas Personales** desarrollado con [Laravel](https://laravel.com/), utilizando la librería [Filament](https://filamentphp.com/) para la administración y [MySQL](https://www.mysql.com/) como base de datos.
